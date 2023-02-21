@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucinm&layout=compact&theme=gruvbox_light&hide_border=true" />
 </p>
 
-## 🔨Tools
+## 🔨Languages and Tools
 
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&color=6b4f31)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium&color=6b4f31&logoColor=white)
