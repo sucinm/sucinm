@@ -2,6 +2,7 @@
 
 
 ## About Me
+- :star2: Open for Job Opportunity 
 
 - 💼 Experienced as a frontend engineer, backend engineer, and database engineer
 
