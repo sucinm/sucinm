@@ -1,4 +1,8 @@
-<p align="center"><img width="35%" alt="Hello, I'm Suci. Tech Enthusiast" src="./assets/header-suci.PNG" /></p>
+<p align="center">
+  <img width="35%" alt="Hello, I'm Suci. Tech Enthusiast" src="./assets/header-suci.PNG" />
+<!--   <br />
+  <img align="center" src="https://visitcount.itsvg.in/api?id=sucinm&label=Profile%20Views&color=2&icon=1&pretty=true" /> -->
+</p>
 
 
 ## About Me
