@@ -12,8 +12,7 @@
 
 ## 📈Stats
 <p align="left">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sucinm&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true" alt="sucinm's github stats" />
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sucinm&layout=compact&theme=solarized-light&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sucinm&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true" alt="sucinm's github stats" /><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sucinm&layout=compact&theme=solarized-light&hide_border=true" />
 </p>
 
 ## 🔨Languages and Tools
