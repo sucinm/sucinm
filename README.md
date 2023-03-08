@@ -6,17 +6,14 @@
 
 
 ## About Me
-- :star2: Open for Job Opportunity 
 
-- 💼 Experienced as a frontend engineer, backend engineer, and database engineer
+IT Professional with over 4 years of experience in designing, developing, testing, maintaining, debugging software for several industries. At my previous job as Fullstack Engineer, I put my responsibility to assure the system could be released properly and the company could deliver a high-quality system. Currently interested in and focused on learning Manual Testing and Automation Testing and **open for job opportunity as Quality Engineer**. Constantly motivated to learn, grow, and excel in Technology.
 
-- :shamrock: I’m currently learning Automation Testing
-
-- ❤️ I love writing code
 
 ## 📈Stats
 <p align="left">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sucinm&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true" alt="sucinm's github stats" /><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sucinm&layout=compact&theme=solarized-light&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sucinm&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true" alt="sucinm's github stats" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sucinm&layout=compact&theme=solarized-light&hide_border=true" />
 </p>
 
 ## 🔨Languages and Tools
