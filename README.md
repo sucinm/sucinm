@@ -12,8 +12,9 @@ IT Professional with over 4 years of experience in designing, developing, testin
 
 ## 📈Stats
 <p align="left">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sucinm&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true" alt="sucinm's github stats" />
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sucinm&layout=compact&theme=solarized-light&hide_border=true" />
+  <img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sucinm&show_icons=true&include_all_commits=true&title_color=b57614&text_color=C58940&icon_color=85631e&bg_color=FBF1C7&hide_border=true" alt="sucinm's github stats" />
+  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=sucinm&theme=gruvbox-light&hide_border=true&mode=weekly" />
+  <img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sucinm&layout=compact&title_color=b57614&text_color=C58940&icon_color=85631e&bg_color=FBF1C7&hide_border=true" />
 </p>
 
 ## 🔨Languages and Tools
